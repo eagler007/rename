@@ -1,6 +1,7 @@
 # Rename
 一款批量更改文件名的小工具。
 使用Python编写，提供EXE可执行文件。
+下载地址：https://github.com/eagler007/rename/releases/download/last/Rename.exe
 初衷是下了有声小说，文件名杂乱，希望通过Python来实现批量重命名。
 
 【功能说明】
